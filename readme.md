@@ -1,0 +1,1 @@
+# Backend of MySportEverywhere app
